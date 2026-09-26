@@ -8,6 +8,7 @@ I build software that makes company knowledge useful in everyday decisions and o
 - **[TurbineH Security](https://github.com/alejandroruiz3c/turbineh-security-7892aeea)** — external domain diagnostics, deterministic scoring and AI-assisted reports. Includes web and Edge Function checks, network-safety tests and bilingual PDF tests.
 - **[SALES OS](https://github.com/alejandroruiz3c/ai-sales-system)** — an agentic, multi-tenant sales platform **in development**. The current implementation reaches the LLM and prompt foundation (F2); the broader sales workflow remains a roadmap.
 - **TurbineH Onboarding** — verified email onboarding, guided AI conversations and report generation. Security and release verification are in progress.
+- **[YESMAN Guardian](https://github.com/alejandroruiz3c/yesman-guardian)** — AI-assisted detection of public signals potentially consistent with bullying, structured evidence and human-led case review. Development prototype with a runnable synthetic demo, modular engine and supervised workers.
 
 ## Engineering approach
 
